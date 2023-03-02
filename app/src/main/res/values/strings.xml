@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application8888</string>
+    <string name="sort">Sort</string>
+    <string name="students_score_in_class">Students score in class 🤓</string>
+    <string name="alireza_score_18">Alireza score 18</string>
+    <string name="mohamadreza_score_18">mohamadreza score 18</string>
+    <string name="bahar_score_18">bahar score 18</string>
+    <string name="zahra_score_18">zahra score 18</string>
+    <string name="setare_score_18">setare score 18</string>
+    <string name="mahdiyar_score_18">mahdiyar score 18</string>
+    <string name="let_s_go_see_your_class_score">let\'s go see your class score</string>
+</resources>
